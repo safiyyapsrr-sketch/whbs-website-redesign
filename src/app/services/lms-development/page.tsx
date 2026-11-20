@@ -156,24 +156,6 @@ const TECHNOLOGIES = [
   'AWS / Azure / GCP', 'WCAG 2.1',
 ]
 
-const CASE_STUDIES = [
-  {
-    client: 'Government of India — iGOT Karmayogi',
-    color: '#059669', bg: '#ECFDF5',
-    outcome: 'Developed 5 SCORM-compliant eLearning modules live on India\'s national civil servant training platform across Customs, Railways, Water Resources, Corporate Affairs, and Animal Husbandry.',
-  },
-  {
-    client: 'Ministry of Education, Brunei Darussalam',
-    color: '#0066FF', bg: '#EFF6FF',
-    outcome: 'Full Moodle LMS theme design, curriculum mapping by certified instructional designers, and on-time eLearning module delivery via Alif Technologies SDN BHD.',
-  },
-  {
-    client: 'Ministries of Education, Malaysia & Singapore',
-    color: '#7C3AED', bg: '#F5F3FF',
-    outcome: 'LMS infrastructure and eLearning content for national education authorities, with multilingual and regional compliance requirements delivered on schedule.',
-  },
-]
-
 // ─────────────────────────────────────────────────────────────────────────────
 // PAGE
 // ─────────────────────────────────────────────────────────────────────────────

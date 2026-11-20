@@ -9,7 +9,7 @@ import CtaSection from '@/components/sections/CtaSection'
 
 const TIMELINE = [
   { year: '1999', event: 'Founded',    title: 'White House Business Solutions incorporated', desc: 'Founded August 1999 in Chennai. Initial focus: multimedia production, CD-ROM based training, and early eLearning content for corporate clients.', color: '#0066FF' },
-  { year: '2003', event: 'Expansion',  title: 'International client engagements begin', desc: 'First international projects across Southeast Asia. Early Moodle LMS work positions WHBS as an enterprise specialist.', color: '#00A76F' },
+  { year: '2003', evet: 'Expansion',  title: 'International client engagements begin', desc: 'First international projects across Southeast Asia. Early Moodle LMS work positions WHBS as an enterprise specialist.', color: '#00A76F' },
   { year: '2007', event: 'Capability', title: 'Mobile and ERP development added', desc: 'WHBS expands into enterprise resource planning and mobile application development, diversifying beyond eLearning.', color: '#6E41C0' },
   { year: '2012', event: 'Partnership', title: 'Cambridge, UK publishing partnership begins', desc: 'A long-term multimedia production partnership with a Cambridge-based educational publisher — sustained for seven consecutive years.', color: '#D97706' },
   { year: '2017', event: 'Innovation', title: 'Industrial IoT division established', desc: 'WHBS launches an industrial IoT practice connecting production machinery with real-time dashboards and SCADA integration.', color: '#0891B2' },

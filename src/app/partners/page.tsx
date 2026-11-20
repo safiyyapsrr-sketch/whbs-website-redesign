@@ -72,7 +72,7 @@ export default function PartnersPage() {
           </Reveal>
 
           <Reveal>
-            <ClientLogoGrid count={56} cols={{ mobile: 2, tablet: 4, desktop: 8 }} />
+            <ClientLogoGrid count={56} />
           </Reveal>
         </div>
       </section>

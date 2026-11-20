@@ -39,7 +39,7 @@ export default function GovernmentSection() {
               <span className="text-[11px] font-bold tracking-[0.1em] uppercase text-green-300">Government of India — iGOT Karmayogi</span>
             </div>
             <h2 className="t-h2 text-white mb-5 max-w-[520px]">
-              eLearning for India's national civil service platform
+              eLearning for India&apos;s national civil service platform
             </h2>
             <p className="text-lead text-white/55 max-w-[460px] mb-8">
               WHBS is an approved eLearning developer on the iGOT Karmayogi portal — delivering SCORM-compliant, WCAG 2.1 AA accessible modules across key Government of India ministries.

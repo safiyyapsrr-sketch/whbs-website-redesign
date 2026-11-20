@@ -475,7 +475,7 @@ export default function NewsPage() {
                     <div>
                       <p className="text-[11px] font-bold tracking-[0.12em] uppercase text-blue-300 mb-2">Explore our services</p>
                       <h3 className="text-[20px] font-bold text-white leading-[1.3] mb-1.5">
-                        Everything you've read is built on 26 years of delivery
+                        Everything you&apos;ve read is built on 26 years of delivery
                       </h3>
                       <p className="text-[13px] text-blue-200 max-w-[440px]">
                         Talk to the WHBS team about your LMS, e-learning, or ERP requirements. Our solution architects respond within 24 business hours.

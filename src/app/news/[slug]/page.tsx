@@ -297,7 +297,7 @@ export default async function ArticlePage({
                   Interested in this area of expertise?
                 </h2>
                 <p className="text-[14px] text-gray-600">
-                  The WHBS team has delivered projects like this across 14 countries. Let's discuss your requirements.
+                  The WHBS team has delivered projects like this across 14 countries. Let&apos;s discuss your requirements.
                 </p>
               </div>
               <div className="flex gap-3 flex-wrap flex-shrink-0">

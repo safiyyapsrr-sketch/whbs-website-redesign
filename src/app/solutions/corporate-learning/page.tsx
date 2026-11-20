@@ -41,8 +41,8 @@ const SOLUTIONS = [
 
 const CLIENTS = ['Banking & Financial Services', 'Manufacturing & Industrial', 'Healthcare & Pharma', 'IT & Technology', 'Retail & FMCG', 'Professional Services']
 
-function AccordionItem({ sol, idx, open, onToggle }: {
-  sol: typeof SOLUTIONS[0], idx: number, open: boolean, onToggle: () => void
+function AccordionItem({ sol, open, onToggle }: {
+  sol: typeof SOLUTIONS[0], open: boolean, onToggle: () => void
 }) {
   return (
     <div className="border-b border-gray-100 last:border-0">
@@ -171,7 +171,6 @@ export default function CorporateLearningPage() {
                   <AccordionItem
                     key={idx}
                     sol={sol}
-                    idx={idx}
                     open={openIdx === idx}
                     onToggle={() => setOpenIdx(openIdx === idx ? null : idx)}
                   />
